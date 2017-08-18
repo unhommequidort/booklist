@@ -1,8 +1,8 @@
 export default function() {
   return [
-    { title: 'Malina' },
-    { title: 'Wonderful Wonderful Times' },
-    { title: 'The Moravian Night' },
-    { title: 'Those Who Leave and Those Who Stay' }
+    { title: 'Malina', pages: 216 },
+    { title: 'Wonderful Wonderful Times', pages: 187 },
+    { title: 'The Moravian Night', pages: 253 },
+    { title: 'Those Who Leave and Those Who Stay', pages: 365 }
   ];
 }
